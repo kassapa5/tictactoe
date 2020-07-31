@@ -1,0 +1,18 @@
+svg{
+    display: block;
+    margin: auto;
+   
+}
+.black{
+    fill: black;
+}
+.red{
+    fill: red
+}
+body{
+    background: coral;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
